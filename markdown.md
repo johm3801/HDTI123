@@ -1,37 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>HBTI</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-<div class = "title">
-    <table>
-        <td>
-            <div class = "character">
-            <img src = "haedalcharac.png" class="mainlogo">
-            </div>
-        </td>
-        <th class="hdti1">H D T I</font></th>
-        <td class="hdti2">Hae<br>Dal<br>Type<br>Indicator</font></td>
-    </table>
-</div>
+        <!-- 파이썬 파일이랑 연동해서 for구문 정도 넣으면 될 듯
 
-<div class = "explaination">
-    <p>이 설문지는 20-2학기 부원 모집 때 사용할 홍보용!<br>개발자용 mbti 검사입니다. 성실하게 대답해 주세요 :)</p>
-</div>
-
-<div class = "main">
-    <table>
-        <tr>
-            <th>매우 그렇다</th>
-            <th>조금 그렇다</th>
-            <th>보통이다</th>
-            <th>조금 아니다</th>
-            <th>매우 아니다</th>
-        </tr>
-        <!-- 파이썬 파일이랑 연동해서 for구문 정도 넣으면 될 듯-->
         <tr>
             <td colspan="5" class="tdquestion"><p>조혜민 똥멍청이 공부 좀 하자.&lt;&lt;ㄹㅇㅋㅋ</p></td>
         </tr>
@@ -92,12 +60,4 @@
                 </div>
             </th>
         </tr>
-    </table>
-</div>
-<div class = "indexpage"></div>
-<center>
-    <button type = "button" value = "next" onclick="location.href = 'page2.html'"></button>
-</center>
-</body>
-
-</html>
+        -->
